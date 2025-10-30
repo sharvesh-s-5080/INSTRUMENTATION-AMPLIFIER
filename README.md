@@ -32,10 +32,13 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+![WhatsApp Image 2025-10-30 at 20 39 41_a43c6337](https://github.com/user-attachments/assets/b1ea9f19-a9f4-455d-accf-541399f18e6a)
 
 
 GRAPH: 
+![WhatsApp Image 2025-10-30 at 20 39 41_e1e012ac](https://github.com/user-attachments/assets/92a647af-2491-4703-89a0-a40ebb2405d5)
 
 
 RESULT:
 
+Thus an instrumentation amplifier was constrected and tested using IC741.
